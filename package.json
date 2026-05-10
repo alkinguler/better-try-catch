@@ -1,6 +1,6 @@
 {
-	"name": "bettertrycatch",
-	"version": "1.0.0",
+	"name": "@alkinguler/better-try-catch",
+	"version": "1.0.1",
 	"description": "A better try-catch wrapper for TypeScript and JavaScript.",
 	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
